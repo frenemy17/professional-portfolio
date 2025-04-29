@@ -6,7 +6,7 @@ export const projects: Project[] = [
     title: 'eduConnect',
     description: 'A app that help you connect with like minded peers for studying',
     technologies: ['React', 'Agora SDK', 'Firebase', 'Websocket'],
-    imageUrl: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg',
+    imageUrl: 'src/image/images.jpg',
     projectUrl: 'https://edu-connect2.netlify.app/',
     githubUrl: 'https://github.com/frenemy17/eduConnect.git',
     category: 'web'
