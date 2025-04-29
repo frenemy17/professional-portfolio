@@ -34,7 +34,7 @@ const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
           gsap.to(subtitleRef.current, {
             duration: 3,
             text: {
-              value: "Full-stack developer & UI/UX designer creating minimal, functional digital experiences.",
+              value: "Front End developer & UI/UX designer creating minimal, functional digital experiences.",
               delimiter: ""
             },
             ease: "none"
